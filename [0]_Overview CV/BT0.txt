@@ -1,6 +1,0 @@
-- Chỉnh sửa ảnh, video: adobe photoshop, adobe Ai, adobe illustrator, ...
-- Bảo mật, nhận diện gương mặt, vân tay
-- Y học: chuẩn đoán bệnh tật, phân tích hình ảnh y tế
-- Giáo dục: mô phỏng hình ảnh dựa vào thực tại tăng cường, sinh động hóa bài học, trực quan hóa
-- Giao thông: đo tốc độ, giám sát các vi phạm giao thông tự động, nhận diện các trường hợp vi phạm
-- Địa chất, địa hình: làm nổi bật các đường biên và đánh dấu các vùng cho người dùng
